@@ -1,0 +1,4 @@
+include ':app'
+include ':network_monitoring'
+
+rootProject.name = "ProUtil"
